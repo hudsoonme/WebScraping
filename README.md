@@ -1,1 +1,1 @@
-# WebScraping
+Description: This code demonstrates web scraping using the BeautifulSoup library. It sends a GET request to a specified URL, retrieves the HTML content, and creates a BeautifulSoup object. It then uses the BeautifulSoup methods to extract and print all the links (href attributes) found in the HTML.
